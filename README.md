@@ -21,3 +21,15 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 
 ---
 *Este repositorio es parte de mi portafolio profesional. ¡Siéntete libre de revisar mis soluciones!*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/brayanp11/leetcode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/brayanp11/leetcode/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics End-->
