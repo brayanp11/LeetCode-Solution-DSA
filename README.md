@@ -52,4 +52,5 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
+| [3110-score-of-a-string](https://github.com/brayanp11/leetcode/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
