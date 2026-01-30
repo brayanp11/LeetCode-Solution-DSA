@@ -42,4 +42,12 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/brayanp11/leetcode/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
