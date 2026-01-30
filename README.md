@@ -29,6 +29,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | ------- |
 | [0035-search-insert-position](https://github.com/brayanp11/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/brayanp11/leetcode/tree/master/0136-single-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/brayanp11/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/brayanp11/leetcode/tree/master/0069-sqrtx) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/brayanp11/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
