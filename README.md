@@ -29,6 +29,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | ------- |
 | [0035-search-insert-position](https://github.com/brayanp11/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/brayanp11/leetcode/tree/master/0136-single-number) |
+| [1920-build-array-from-permutation](https://github.com/brayanp11/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/brayanp11/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -53,4 +54,8 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | ------- |
 | [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
 | [3110-score-of-a-string](https://github.com/brayanp11/leetcode/tree/master/3110-score-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/brayanp11/leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
