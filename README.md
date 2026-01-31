@@ -54,11 +54,13 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | ------- |
 | [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
 | [3668-restore-finishing-order](https://github.com/brayanp11/leetcode/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/brayanp11/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
 | [3110-score-of-a-string](https://github.com/brayanp11/leetcode/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/brayanp11/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
 | ------- |
