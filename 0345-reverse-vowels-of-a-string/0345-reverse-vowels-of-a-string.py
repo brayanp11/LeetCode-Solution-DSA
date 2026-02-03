@@ -2,10 +2,11 @@ class Solution:
     def reverseVowels(self, s: str) -> str:
         if len(s) <= 1:
             return s
+
         left, right = 0, len(s) - 1
         res = [c for c in s]
         vowels = {'a','e','i','o','u','A','E','I','O','U'}
-        print(res)
+
         while left <= right:
             if s[left] not in vowels:
                 left += 1
