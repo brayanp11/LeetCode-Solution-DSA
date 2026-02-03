@@ -63,6 +63,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/brayanp11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/brayanp11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/brayanp11/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -84,6 +85,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/brayanp11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/brayanp11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/brayanp11/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
