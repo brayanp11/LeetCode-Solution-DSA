@@ -30,6 +30,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0035-search-insert-position](https://github.com/brayanp11/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/brayanp11/leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/brayanp11/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/brayanp11/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/brayanp11/leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/brayanp11/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/brayanp11/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -93,5 +94,6 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/brayanp11/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/brayanp11/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
