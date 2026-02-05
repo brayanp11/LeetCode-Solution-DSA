@@ -7,7 +7,7 @@ class Solution:
 
         slow, fast = 0, 0
         while fast < len(t) and slow < len(s):
-            if fast < len(t) and slow < len(s) and s[slow] != t[fast]:
+            if fast < len(t) and s[slow] != t[fast]:
                 fast += 1
             elif fast < len(t) and slow < len(s) and s[slow] == t[fast]:
                 slow += 1
