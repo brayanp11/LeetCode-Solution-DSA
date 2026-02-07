@@ -9,6 +9,7 @@ class Solution:
                 curr_vowels += 1
             if s[i - k] in vowels:
                 curr_vowels -= 1
-            max_vowels = max(max_vowels, curr_vowels)
-            if max_vowels == k: return max_vowels
+            if curr_vowels > max_vowels:
+                max_vowels = curr_vowels
+                if max_vowels == k: return k
         return max_vowels
