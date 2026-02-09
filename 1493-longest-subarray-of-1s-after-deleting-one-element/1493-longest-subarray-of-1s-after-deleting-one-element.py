@@ -12,8 +12,7 @@ class Solution:
                 if nums[left] == 0:
                     zerocount -= 1
                 left += 1
-
-            if lenwindow < right - left:
-                lenwindow = right - left
+            
+            lenwindow = max(lenwindow, right - left)
 
         return lenwindow
