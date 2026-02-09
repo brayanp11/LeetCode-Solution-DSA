@@ -13,6 +13,7 @@ class Solution:
                     zerocount -= 1
                 left += 1
 
-            lenwindow = max(lenwindow, right - left)
+            if lenwindow < right - left:
+                lenwindow = right - left
 
         return lenwindow
