@@ -35,6 +35,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0334-increasing-triplet-subsequence](https://github.com/brayanp11/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/brayanp11/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/brayanp11/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/brayanp11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/brayanp11/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/brayanp11/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -51,6 +52,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | ------- |
 | [0035-search-insert-position](https://github.com/brayanp11/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/brayanp11/leetcode/tree/master/0069-sqrtx) |
+| [1004-max-consecutive-ones-iii](https://github.com/brayanp11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/brayanp11/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/brayanp11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/brayanp11/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Two Pointers
 |  |
@@ -124,6 +127,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/brayanp11/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/brayanp11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/brayanp11/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/brayanp11/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
