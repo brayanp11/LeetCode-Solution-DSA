@@ -2,7 +2,7 @@ class Solution:
     def uniqueOccurrences(self, arr: List[int]) -> bool:
         count = {}
 
-        for i in range(len(arr)):
-            count[arr[i]] = 1 + count.get(arr[i], 0)
+        for num in arr:
+            count[num] = 1 + count.get(num, 0)
 
         return len(set(count.values())) == len(count.values())
