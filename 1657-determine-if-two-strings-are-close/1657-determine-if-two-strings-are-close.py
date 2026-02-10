@@ -1,10 +1,7 @@
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
-        if len(word1) != len(word2): return False
-        
         cnt1, cnt2 = Counter(word1), Counter(word2)
 
-        if set(cnt1.keys()) != set(cnt2.keys()):
-            return False
+        if set(cnt1.keys()) != set(cnt2.keys()): return False
 
         return sorted(cnt1.values()) == sorted(cnt2.values())
