@@ -37,6 +37,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0643-maximum-average-subarray-i](https://github.com/brayanp11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/brayanp11/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/brayanp11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/brayanp11/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/brayanp11/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/brayanp11/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -71,6 +72,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
+| [1207-unique-number-of-occurrences](https://github.com/brayanp11/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/brayanp11/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/brayanp11/leetcode/tree/master/3668-restore-finishing-order) |
