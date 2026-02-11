@@ -47,6 +47,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1929-concatenation-of-array](https://github.com/brayanp11/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brayanp11/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/brayanp11/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/brayanp11/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2942-find-words-containing-character](https://github.com/brayanp11/leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/brayanp11/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/brayanp11/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -76,6 +77,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1657-determine-if-two-strings-are-close](https://github.com/brayanp11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/brayanp11/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/brayanp11/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3668-restore-finishing-order](https://github.com/brayanp11/leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/brayanp11/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -100,6 +102,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1920-build-array-from-permutation](https://github.com/brayanp11/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/brayanp11/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brayanp11/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2352-equal-row-and-column-pairs](https://github.com/brayanp11/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,4 +148,8 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/brayanp11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/brayanp11/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
