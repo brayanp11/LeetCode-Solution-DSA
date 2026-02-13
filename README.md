@@ -88,6 +88,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/brayanp11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/brayanp11/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/brayanp11/leetcode/tree/master/0394-decode-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/brayanp11/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/brayanp11/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/brayanp11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -159,6 +160,11 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/brayanp11/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/brayanp11/leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/brayanp11/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/brayanp11/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
