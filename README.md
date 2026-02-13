@@ -84,6 +84,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/brayanp11/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/brayanp11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/brayanp11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -160,6 +161,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/brayanp11/leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/brayanp11/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/brayanp11/leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/brayanp11/leetcode/tree/master/2390-removing-stars-from-a-string) |
