@@ -169,4 +169,16 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/brayanp11/leetcode/tree/master/0394-decode-string) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/brayanp11/leetcode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/brayanp11/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/brayanp11/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
