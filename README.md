@@ -170,6 +170,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/brayanp11/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/brayanp11/leetcode/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -184,4 +185,8 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/brayanp11/leetcode/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/brayanp11/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
