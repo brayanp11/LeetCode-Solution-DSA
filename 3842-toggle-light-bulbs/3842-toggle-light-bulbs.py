@@ -1,9 +1,6 @@
 class Solution:
     def toggleLightBulbs(self, bulbs: list[int]) -> list[int]:
-        seen = set()
+        is_on = [False] * 101
         for bulb in bulbs:
-            if bulb not in seen:
-                seen.add(bulb)
-            else:
-                seen.remove(bulb)
-        return sorted(list(seen))
+            is_on[bulb] = not is_on[bulb]
+        return [i for i in range(1, 101) if is_on[i]]
