@@ -8,7 +8,7 @@ class Solution:
         num = 0
 
         while head:
-            num = (num << 1) | head.val
+            num = num * 2 + head.val
             head = head.next
 
         return num
