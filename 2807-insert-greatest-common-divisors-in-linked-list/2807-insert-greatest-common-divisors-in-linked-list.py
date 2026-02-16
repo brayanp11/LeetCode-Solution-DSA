@@ -7,16 +7,16 @@ class Solution:
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next:
             return head
-            
-        left, right = head, head.next
-        while right:
-            gcd = math.gcd(left.val, right.val)
+
+        curr, nxt = head, head.next
+        while nxt:
+            gcd = math.gcd(curr.val, nxt.val)
 
             gcd_node = ListNode(gcd)
 
-            left.next = gcd_node
-            gcd_node.next = right
-            left = right
-            right = right.next
+            curr.next = gcd_node
+            gcd_node.next = nxt
+            curr = nxt
+            nxt = nxt.next
 
         return head
