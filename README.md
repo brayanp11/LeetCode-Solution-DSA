@@ -202,6 +202,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0141-linked-list-cycle](https://github.com/brayanp11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/brayanp11/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/brayanp11/leetcode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/brayanp11/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/brayanp11/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/brayanp11/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/brayanp11/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
