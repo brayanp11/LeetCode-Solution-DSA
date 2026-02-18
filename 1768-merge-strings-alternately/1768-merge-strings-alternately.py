@@ -3,12 +3,9 @@ class Solution:
         res = []
 
         for char1, char2 in zip(word1, word2):
-            res.append(char1)
-            res.append(char2)
+            res.append(char1 + char2)
 
-        if len(word1) > len(word2):
-            end = [char for char in word1[len(word2):]]
-            return "".join(res + end)
-        else:
-            end = [char for char in word2[len(word1):]]
-            return "".join(res + end)
+        res.append(word1[len(word2):])
+        res.append(word2[len(word1):])
+
+        return "".join(res)
