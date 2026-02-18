@@ -3,7 +3,8 @@ class Solution:
         res = []
 
         for char1, char2 in zip(word1, word2):
-            res.append(char1 + char2)
+            res.append(char1)
+            res.append(char2)
 
         res.append(word1[len(word2):])
         res.append(word2[len(word1):])
