@@ -3,12 +3,11 @@ class Solution:
         if n <= 0:
             return True
 
+        length = len(flowerbed)
         for i in range(len(flowerbed)):
             if flowerbed[i] == 0:
-                left_empty = i == 0 or flowerbed[i - 1] == 0
-                right_empty = i == len(flowerbed) - 1 or flowerbed[i + 1] == 0
-
-                if left_empty and right_empty:
+                if ((i == 0 or flowerbed[i - 1] == 0) and
+                (i == length - 1 or flowerbed[i + 1] == 0)):
                     flowerbed[i] = 1
                     n -= 1
                     if n == 0: return True
