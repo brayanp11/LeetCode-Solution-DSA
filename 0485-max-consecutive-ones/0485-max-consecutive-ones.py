@@ -1,6 +1,8 @@
+import gc
+gc.disable()
 class Solution:
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
-        max_ones, curr = 0, 0
+        max_ones = curr = 0
 
         for num in nums:
             if num:
