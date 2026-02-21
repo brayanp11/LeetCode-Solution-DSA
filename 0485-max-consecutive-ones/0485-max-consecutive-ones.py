@@ -5,7 +5,8 @@ class Solution:
         for num in nums:
             if num == 1:
                 curr += 1
-                max_ones = max(max_ones, curr)
+                if max_ones < curr:
+                    max_ones = curr
             else:
                 curr = 0
 
