@@ -36,6 +36,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0485-max-consecutive-ones](https://github.com/brayanp11/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/brayanp11/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/brayanp11/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/brayanp11/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/brayanp11/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/brayanp11/leetcode/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/brayanp11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -65,6 +66,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/brayanp11/leetcode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/brayanp11/leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0141-linked-list-cycle](https://github.com/brayanp11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/brayanp11/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
+| [0645-set-mismatch](https://github.com/brayanp11/leetcode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/brayanp11/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/brayanp11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -157,6 +160,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/brayanp11/leetcode/tree/master/0645-set-mismatch) |
 | [1657-determine-if-two-strings-are-close](https://github.com/brayanp11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
