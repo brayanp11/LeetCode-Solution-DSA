@@ -1,5 +1,3 @@
-import gc
-gc.disable()
 class Solution:
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
         max_ones = curr = 0
