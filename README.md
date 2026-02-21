@@ -94,6 +94,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/brayanp11/leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/brayanp11/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/brayanp11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/brayanp11/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/brayanp11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
