@@ -3,7 +3,7 @@ class Solution:
         max_ones, curr = 0, 0
 
         for num in nums:
-            if num == 1:
+            if num:
                 curr += 1
                 if max_ones < curr:
                     max_ones = curr
