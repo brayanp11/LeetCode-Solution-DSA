@@ -5,8 +5,8 @@ class Solution:
         for num in nums:
             if num == 1:
                 curr += 1
-            else:
                 max_ones = max(max_ones, curr)
+            else:
                 curr = 0
 
-        return max(max_ones, curr)
+        return max_ones
