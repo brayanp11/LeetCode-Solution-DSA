@@ -76,6 +76,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0069-sqrtx](https://github.com/brayanp11/leetcode/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/brayanp11/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/brayanp11/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2396-strictly-palindromic-number](https://github.com/brayanp11/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/brayanp11/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/brayanp11/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/brayanp11/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -155,6 +156,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1768-merge-strings-alternately](https://github.com/brayanp11/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/brayanp11/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brayanp11/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/brayanp11/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -256,4 +258,8 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brayanp11/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/brayanp11/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
