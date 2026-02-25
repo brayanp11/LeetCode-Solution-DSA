@@ -1,17 +1,12 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        positive, negative = [], []
-
+        res = [0] * len(nums)
+        pos_idx, neg_idx = 0, 1
         for num in nums:
-            if num >= 0:
-                positive.append(num)
+            if num > 0:
+                res[pos_idx] = num
+                pos_idx += 2
             else:
-                negative.append(num)
-
-        idx_pos, idx_neg = 0, 1
-        for num_pos, num_neg in zip(positive, negative):
-            nums[idx_pos] = num_pos
-            nums[idx_neg] = num_neg
-            idx_pos = idx_neg + 1 
-            idx_neg += 2
-        return nums
+                res[neg_idx] = num
+                neg_idx += 2
+        return res
