@@ -52,6 +52,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1920-build-array-from-permutation](https://github.com/brayanp11/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/brayanp11/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brayanp11/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/brayanp11/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/brayanp11/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/brayanp11/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/brayanp11/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -126,6 +127,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/brayanp11/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/brayanp11/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brayanp11/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/brayanp11/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/brayanp11/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/brayanp11/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/brayanp11/leetcode/tree/master/3110-score-of-a-string) |
@@ -167,6 +169,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1768-merge-strings-alternately](https://github.com/brayanp11/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/brayanp11/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/brayanp11/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/brayanp11/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brayanp11/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/brayanp11/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/brayanp11/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
