@@ -59,6 +59,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/brayanp11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/brayanp11/leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/brayanp11/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/brayanp11/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/brayanp11/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/brayanp11/leetcode/tree/master/3668-restore-finishing-order) |
 ## Binary Search
@@ -169,6 +170,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [2367-number-of-arithmetic-triplets](https://github.com/brayanp11/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/brayanp11/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/brayanp11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/brayanp11/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/brayanp11/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
@@ -190,6 +192,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1657-determine-if-two-strings-are-close](https://github.com/brayanp11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/brayanp11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/brayanp11/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sliding Window
 |  |
 | ------- |
