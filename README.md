@@ -55,6 +55,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [2161-partition-array-according-to-given-pivot](https://github.com/brayanp11/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/brayanp11/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/brayanp11/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/brayanp11/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/brayanp11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/brayanp11/leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/brayanp11/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -99,6 +100,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/brayanp11/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/brayanp11/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/brayanp11/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3668-restore-finishing-order](https://github.com/brayanp11/leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/brayanp11/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -164,6 +166,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/brayanp11/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brayanp11/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/brayanp11/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/brayanp11/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/brayanp11/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/brayanp11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/brayanp11/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -274,4 +277,8 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/brayanp11/leetcode/tree/master/2396-strictly-palindromic-number) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/brayanp11/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
