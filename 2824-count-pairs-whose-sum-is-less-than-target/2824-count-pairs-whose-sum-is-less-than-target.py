@@ -5,7 +5,7 @@ class Solution:
         count = 0
         while left < right:
             if nums[left] + nums[right] < target:
-                count += (right - left)
+                count += right - left
                 left += 1
             else:
                 right -= 1
