@@ -120,6 +120,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1657-determine-if-two-strings-are-close](https://github.com/brayanp11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/brayanp11/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/brayanp11/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2000-reverse-prefix-of-word](https://github.com/brayanp11/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brayanp11/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/brayanp11/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/brayanp11/leetcode/tree/master/2942-find-words-containing-character) |
@@ -159,6 +160,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0876-middle-of-the-linked-list](https://github.com/brayanp11/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/brayanp11/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/brayanp11/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/brayanp11/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brayanp11/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/brayanp11/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -206,6 +208,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0020-valid-parentheses](https://github.com/brayanp11/leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/brayanp11/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/brayanp11/leetcode/tree/master/0735-asteroid-collision) |
+| [2000-reverse-prefix-of-word](https://github.com/brayanp11/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brayanp11/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/brayanp11/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
