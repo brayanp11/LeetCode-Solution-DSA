@@ -76,6 +76,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | ------- |
 | [0136-single-number](https://github.com/brayanp11/leetcode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/brayanp11/leetcode/tree/master/0645-set-mismatch) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/brayanp11/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0557-reverse-words-in-a-string-iii](https://github.com/brayanp11/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0649-dota2-senate](https://github.com/brayanp11/leetcode/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/brayanp11/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/brayanp11/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/brayanp11/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/brayanp11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/brayanp11/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -138,6 +140,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/brayanp11/leetcode/tree/master/0735-asteroid-collision) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/brayanp11/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1920-build-array-from-permutation](https://github.com/brayanp11/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/brayanp11/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brayanp11/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
