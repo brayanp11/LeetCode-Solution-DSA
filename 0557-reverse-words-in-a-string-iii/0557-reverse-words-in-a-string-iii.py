@@ -1,13 +1,14 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        s = s.split()
-        res = []
-        for word in s:
-            left, right = 0, len(word) - 1
-            curr = [""] * len(word)
-            while left <= right:
-                curr[left], curr[right] = word[right], word[left]
-                left += 1
-                right -= 1
-            res.append("".join(curr))
-        return " ".join(res)
+        chars = list(s)
+        n = len(chars)
+        start = 0
+        for end in range(n + 1):
+            if end == n or chars[end] == " ":
+                left, right = start, end - 1
+                while left < right:
+                    chars[left], chars[right] = chars[right], chars[left]
+                    left += 1
+                    right -= 1
+                start = end + 1
+        return "".join(chars)
