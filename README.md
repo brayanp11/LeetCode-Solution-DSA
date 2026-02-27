@@ -49,6 +49,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/brayanp11/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/brayanp11/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/brayanp11/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/brayanp11/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/brayanp11/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brayanp11/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -172,6 +173,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0876-middle-of-the-linked-list](https://github.com/brayanp11/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/brayanp11/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/brayanp11/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/brayanp11/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/brayanp11/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/brayanp11/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -190,6 +192,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0334-increasing-triplet-subsequence](https://github.com/brayanp11/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/brayanp11/leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/brayanp11/leetcode/tree/master/0649-dota2-senate) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/brayanp11/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +205,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brayanp11/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/brayanp11/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/brayanp11/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/brayanp11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/brayanp11/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sliding Window
