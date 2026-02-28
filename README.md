@@ -141,6 +141,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [3110-score-of-a-string](https://github.com/brayanp11/leetcode/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/brayanp11/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/brayanp11/leetcode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/brayanp11/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [2181-merge-nodes-in-between-zeros](https://github.com/brayanp11/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/brayanp11/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/brayanp11/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/brayanp11/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/brayanp11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/brayanp11/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/brayanp11/leetcode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/brayanp11/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
