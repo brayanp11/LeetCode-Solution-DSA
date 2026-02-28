@@ -1,21 +1,25 @@
 class Solution:
     def reverseByType(self, s: str) -> str:
         s = list(s)
-        
-        def reverse_condition(arr, condition_fn):
-            l, r = 0, len(arr) - 1
+        left, right = 0, len(s) - 1
 
-            while l < r:
-                while l < r and not condition_fn(arr[l]):
-                    l += 1
-                while l < r and not condition_fn(arr[r]):
-                    r -= 1
-                if l < r:
-                    arr[l], arr[r] = arr[r], arr[l]
-                    l += 1
-                    r -= 1
+        while left < right:
+            while left < right and not s[left].isalpha():
+                left += 1
+            while left < right and not s[right].isalpha():
+                right -= 1
+            s[left], s[right] = s[right], s[left]
+            left += 1
+            right -= 1
 
-        reverse_condition(s, lambda char: char.isalpha())
-        reverse_condition(s, lambda char: not char.isalpha())
+        left, right = 0, len(s) - 1
+        while left < right:
+            while left < right and s[left].isalpha():
+                left += 1
+            while left < right and s[right].isalpha():
+                right -= 1
+            s[left], s[right] = s[right], s[left]
+            left += 1
+            right -= 1
         
         return "".join(s)
