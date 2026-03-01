@@ -1,8 +1,4 @@
 class Solution:
     def minPartitions(self, n: str) -> int:
-        n = set(n)
-        cnt = float("-inf")
-        for num in n:
-            cnt = max(cnt, int(num))
-            if cnt == 9: return cnt
-        return cnt
+        if '9' in n: return 9
+        return int(max(n))
