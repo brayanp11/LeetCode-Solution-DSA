@@ -140,6 +140,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brayanp11/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/brayanp11/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/brayanp11/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/brayanp11/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2942-find-words-containing-character](https://github.com/brayanp11/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/brayanp11/leetcode/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/brayanp11/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -194,6 +195,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [2367-number-of-arithmetic-triplets](https://github.com/brayanp11/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/brayanp11/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/brayanp11/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/brayanp11/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/brayanp11/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/brayanp11/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/brayanp11/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -208,6 +210,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0763-partition-labels](https://github.com/brayanp11/leetcode/tree/master/0763-partition-labels) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/brayanp11/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/brayanp11/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/brayanp11/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
