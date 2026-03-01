@@ -1,5 +1,6 @@
 class Solution:
     def minPartitions(self, n: str) -> int:
+        n = set(n)
         cnt = float("-inf")
         for num in n:
             cnt = max(cnt, int(num))
