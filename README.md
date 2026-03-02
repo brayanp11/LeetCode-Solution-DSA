@@ -46,6 +46,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/brayanp11/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/brayanp11/leetcode/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/brayanp11/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/brayanp11/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brayanp11/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/brayanp11/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/brayanp11/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -208,6 +209,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0605-can-place-flowers](https://github.com/brayanp11/leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/brayanp11/leetcode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/brayanp11/leetcode/tree/master/0763-partition-labels) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/brayanp11/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/brayanp11/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/brayanp11/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/brayanp11/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -240,6 +242,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 ## Matrix
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/brayanp11/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/brayanp11/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Stack
 |  |
