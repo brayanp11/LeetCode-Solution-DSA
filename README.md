@@ -29,6 +29,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | ------- |
 | [0011-container-with-most-water](https://github.com/brayanp11/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/brayanp11/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/brayanp11/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/brayanp11/leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/brayanp11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/brayanp11/leetcode/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/brayanp11/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/brayanp11/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/brayanp11/leetcode/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/brayanp11/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/brayanp11/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
