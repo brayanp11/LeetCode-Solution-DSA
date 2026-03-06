@@ -141,6 +141,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/brayanp11/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/brayanp11/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/brayanp11/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/brayanp11/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2000-reverse-prefix-of-word](https://github.com/brayanp11/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brayanp11/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/brayanp11/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
