@@ -1,11 +1,9 @@
 class Solution:
     def minimumIndex(self, capacity: list[int], itemSize: int) -> int:
-        res = float("inf")
+        res = -1
         for i in range(len(capacity)):
             if itemSize <= capacity[i]:
-                res = min(res, capacity[i])
+                if res == -1 or capacity[i] < capacity[res]:
+                    res = i
 
-        try:
-            return capacity.index(res)
-        except:
-            return -1
+        return res
