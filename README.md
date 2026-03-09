@@ -46,6 +46,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brayanp11/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/brayanp11/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/brayanp11/leetcode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/brayanp11/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/brayanp11/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/brayanp11/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/brayanp11/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -176,6 +177,7 @@ Las soluciones están organizadas automáticamente por la extensión LeetHub v2.
 | [0238-product-of-array-except-self](https://github.com/brayanp11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/brayanp11/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/brayanp11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/brayanp11/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/brayanp11/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/brayanp11/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/brayanp11/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
