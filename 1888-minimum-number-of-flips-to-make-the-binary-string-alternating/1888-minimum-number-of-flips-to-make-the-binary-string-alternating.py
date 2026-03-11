@@ -1,38 +1,23 @@
 class Solution:
     def minFlips(self, s: str) -> int:
+        n = len(s)
+        count0, count1 = 0, 0
+        res = n
         s2 = s + s
+        for i in range(n * 2):
+            expected0 = '0' if i % 2 == 0 else '1'
 
-        n = len(s2)
-
-        res = float("inf")
-        ans1, ans2 = [], []
-
-        count1, count2 = 0, 0
-
-        for i in range(n):
-            if i % 2 == 0:
-                ans1.append("0")
-                ans2.append("1")
-            else:
-                ans1.append("1")
-                ans2.append("0")
-
-        left = 0
-
-        for right in range(n):
-            if s2[right] != ans1[right]:
-                count1 += 1
-            if s2[right] != ans2[right]:
-                count2 += 1
-
-            if right - left  + 1 > len(s):
-                if s2[left] != ans1[left]:
-                    count1 -= 1
-                if s2[left] != ans2[left]:
-                    count2 -= 1
-                left += 1
-
-            if right - left  + 1 == len(s):
-                res = min(res, count1, count2)
+            if s2[i] != expected0:
+                count0 += 1
+            
+            if i >= n:
+                left = i - n
+                exp_left = '0' if left % 2 == 0 else '1'
+                if s2[left] != exp_left:
+                    count0 -= 1
+            
+            if i >= n - 1:
+                count1 = n - count0
+                res = min (res, min(count0, count1))
 
         return res
