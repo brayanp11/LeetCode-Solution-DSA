@@ -1,22 +1,14 @@
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
-        ans = {}
+        totalSum = sum(nums)
+        left_total = 0
 
-        prefix_sum = 0
         for i in range(len(nums)):
-            prefix_sum += nums[i]
-            ans[i] = prefix_sum - nums[i]
+            right_total = totalSum - nums[i] - left_total
 
-        diff, pivot = 0, float('inf')
-        suffix_sum = 0
-        for i in range(len(nums) - 1, -1, -1):
-            suffix_sum += nums[i]
-            diff = suffix_sum - nums[i]
+            if left_total == right_total:
+                return i
 
-            if diff == ans[i]:
-                pivot = min(pivot, i)
-
-            if i == 0 and pivot < len(nums):
-                return pivot
+            left_total += nums[i]
             
         return -1
